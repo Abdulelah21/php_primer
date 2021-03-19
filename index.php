@@ -14,7 +14,7 @@
     <li><a href="forloop.php">Simple for loop</a></li>
     <li><a href="dowhileloop.php">Simple do while </a></li>
     <li><a href="whileloop.php">Simple While loop</a></li>
-    <li><a href="ifstatement.php">Simple if statement</a></li>
+    <li><a href="ifstatement.php">Simple IF statement</a></li>
     <li><a href="switchstatement.php">Simple Switch Statement</a></li>
     </ul>
     <?php
